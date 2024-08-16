@@ -1,0 +1,5 @@
+logs/
+arquivo.txt
+
+Esta pasta ignorará todos arquivos escritos dentro dela como acima
+"git reset" para tirar os arquivos em espera do "add ."
